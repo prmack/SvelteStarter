@@ -1,9 +1,9 @@
-import Home from "./components/Home.svelte";
+import Index from "./components/Index.svelte";
 
 const routes = [
   {
     name : '/',
-    component: Home
+    component: Index
   }
 ]
 

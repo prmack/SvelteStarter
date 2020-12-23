@@ -47,7 +47,7 @@ export default {
 					prependData : `@import 'src/styles/variables.scss';`
 				},
 				postcss : {
-					// plugins : [require('autoprefixer')()]
+					plugins : [require('autoprefixer')()]
 				}
 			}),
 			compilerOptions: {

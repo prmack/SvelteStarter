@@ -1,0 +1,21 @@
+@use 'variables.scss';
+
+html,
+body {
+  height: 100%;
+}
+
+html {
+  font-size: 62.5%;
+  line-height: 1.65;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: $backgroundColor;
+  font-family: $fontFamily-body;
+  color: $bodyColor;
+}

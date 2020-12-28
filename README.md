@@ -5,6 +5,8 @@ Svelte Starter Template with;
 - Bulma
 - Svelte-Router
 
+Contains `Global Styles`, and `Variables` for styling.
+
 ---
 
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*

@@ -4,6 +4,7 @@ Svelte Starter Template with;
 - Less Support
 - Bulma
 - Svelte-Router
+- Support for Local HTTPS support
 
 Contains `Global Styles`, and `Variables` for styling.
 

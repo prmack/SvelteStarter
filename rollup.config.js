@@ -81,6 +81,14 @@ export default {
 		// Watch the `public` directory and refresh the
 		// browser on changes when not in production
 		!production && livereload('public'),
+		// Uncomment to get HTTPS support you'll need to create SSL Certs
+		// !production && livereload({
+		// 	watch : 'public', 
+		// 	https: { 
+		// 		key : fs.readFileSync('./certs/server.key'), 
+		// 		cert : fs.readFileSync('./certs/server.crt')
+		// 	}
+		// })
 
 		// If we're building for production (npm run build
 		// instead of npm run dev), minify

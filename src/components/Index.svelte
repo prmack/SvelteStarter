@@ -1,7 +1,7 @@
-<script>
+<script lang="ts">
 </script>
 
-<style>
+<style lang="scss">
 </style>
 
 <h1>Hello World</h1>
